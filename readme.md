@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/hume-ai-gitbook-mcp-badge.png)](https://mseep.ai/app/hume-ai-gitbook-mcp)
+
 # GitBook Model Context Provider (MCP) Server
 
 This Python-based MCP server creates a bridge between your codebase and GitBook documentation, providing real-time context and code insights to enhance your technical documentation.
